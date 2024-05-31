@@ -1,3 +1,3 @@
 #Todo list
 <br />
-<img src="test2.gif" width="250"/>
+<img src="test2.gif" width="800"/>
